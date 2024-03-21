@@ -229,7 +229,7 @@ Furthermore, a footer has been introduced to the landing page, offering informat
 
 ## Getting Started
 
-To set up and run the application just follow this link: https://medical-claims-t17.netlify.app/
+//
 
 
 ## Conclusion
